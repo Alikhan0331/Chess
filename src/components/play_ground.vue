@@ -72,7 +72,7 @@ h1 { font-family: 'Kameron'; font-weight: 500; font-size: 10vw; color: #fff; opa
 .content { width: 100%; height: 90vh; background-color: rgba(0, 0, 0, 0.15); border-radius: 30px; margin-left: 30px; margin-top: 300px; display: flex; justify-content: space-between; }
 .settings { width: 30%; padding-top: 100px; margin-left: 30px; display: block; }
 .Martin { display: flex; }
-.Martin img { width: 150px; }
+.Martin img { width: 150px; height: 150px;}
 .martin-desc { margin-top: 30px; margin-left: 20px; }
 .martin-desc h2 { font-family: 'Kameron'; font-weight: 300; font-size: 30px; color: #fff; opacity: 85%; margin-bottom: 10px; }
 .color { margin-top: 50px; }

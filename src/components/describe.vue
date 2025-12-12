@@ -59,6 +59,7 @@
     }
 
     img {
-        width: 35%;
+        width: 250px;
+        height: 250px;
     }
 </style>

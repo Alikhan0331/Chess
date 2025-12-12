@@ -213,7 +213,7 @@ onMounted(() => {
 <style scoped>
 /* Reuse your exact styles here */
 .app-container { display: flex; flex-direction: column; align-items: center; font-family: sans-serif; }
-.board-wrapper { position: relative; width: 600px; height: 600px; border: 5px solid #444; }
+.board-wrapper { position: relative; width: 500px; height: 500px; border: 5px solid #444; }
 .chessboard { display: flex; flex-direction: column; width: 100%; height: 100%; }
 .row { display: flex; flex: 1; }
 .square { flex: 1; display: flex; position: relative; justify-content: center; align-items: center; cursor: pointer; }
