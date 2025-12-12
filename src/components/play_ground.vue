@@ -83,6 +83,7 @@ h1 { font-family: 'Kameron'; font-weight: 500; font-size: 10vw; color: #fff; opa
 .black { background-color: rgba(0, 0, 0, 0.5); }
 .white { background-color: rgba(255, 255, 255, 0.9); }
 .colors div:hover { box-shadow: inset 0 0 0 4px #769656; }
+.colors div:last-child:hover { box-shadow: none; color: #769656; }
 .settings button { width: 80%; height: 75px; margin-top: 150px; border-radius: 30px; font-family: 'Kameron'; font-weight: 300; font-size: 24px; background-color: #769656; border: 1px solid #769656; color: #fff; transition: all 0.5s ease; cursor: pointer; }
 .settings button:hover { transform: scale(1.05); background-color: #5f7945; }
 </style>
